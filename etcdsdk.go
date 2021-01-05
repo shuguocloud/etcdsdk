@@ -1,9 +1,9 @@
 package etcdsdk
 
 import (
-	"github.com/etcd-manage/etcdsdk/etcdv2"
-	"github.com/etcd-manage/etcdsdk/etcdv3"
-	"github.com/etcd-manage/etcdsdk/model"
+	"github.com/shuguocloud/etcdsdk/etcdv2"
+	"github.com/shuguocloud/etcdsdk/etcdv3"
+	"github.com/shuguocloud/etcdsdk/model"
 )
 
 /*

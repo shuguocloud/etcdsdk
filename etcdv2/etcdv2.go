@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/client"
-	"github.com/etcd-manage/etcdsdk/model"
+	"github.com/shuguocloud/etcdsdk/model"
 )
 
 var (

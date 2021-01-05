@@ -10,7 +10,7 @@ import (
 
 	"github.com/coreos/etcd/clientv3"
 	"github.com/coreos/etcd/pkg/transport"
-	"github.com/etcd-manage/etcdsdk/model"
+	"github.com/shuguocloud/etcdsdk/model"
 )
 
 var (

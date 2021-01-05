@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/etcd-manage/etcdsdk/model"
+	"github.com/shuguocloud/etcdsdk/model"
 )
 
 // 存储证书文件
